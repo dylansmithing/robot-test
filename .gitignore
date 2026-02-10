@@ -1,0 +1,9 @@
+# RSpec
+spec/examples.txt
+
+# Bundler
+.bundle/
+vendor/bundle/
+
+# Gemfile.lock (optional - include if you want consistent versions)
+# Gemfile.lock
